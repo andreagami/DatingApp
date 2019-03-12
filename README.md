@@ -11,6 +11,16 @@ Node is designed to build scalable network applications.
 ### [Visual Studio Code](https://code.visualstudio.com/)
 Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux.
 
+#### Visual Studio Code Extensions
+* C#
+* C# Extensions
+* NuGetPackage Manager
+
+### [AngularJS](https://cli.angular.io/)
+The Angular CLI makes it easy to create an application that already works, right out of the box.
+
+`npm install -g @angular/cli`
+
 ### [Postman API](https://www.getpostman.com/downloads/)
 API development environment
 
