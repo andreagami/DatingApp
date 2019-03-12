@@ -15,6 +15,16 @@ Visual Studio Code is a lightweight but powerful source code editor which runs o
 * C#
 * C# Extensions
 * NuGetPackage Manager
+* Angular 7 Snippets
+* Angular Files
+* Angular Language Service
+* Angular2-Switcher
+* Auto Rename Tag
+* Bracket Pair Colorizer
+* Material Icon Theme
+* Path Intelisense
+* Prettier - Code Formatter
+* TSLint
 
 ### [AngularJS](https://cli.angular.io/)
 The Angular CLI makes it easy to create an application that already works, right out of the box.
