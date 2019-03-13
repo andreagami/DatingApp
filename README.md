@@ -37,7 +37,9 @@ API development environment
 ### [Bootstrap](https://getbootstrap.com/)
 Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
 
+`npm install bootstrap`
+
 ### [Font Awesome](https://fontawesome.com/)
 Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.
 
-
+`npm install font-awesome`
